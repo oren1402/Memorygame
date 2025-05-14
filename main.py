@@ -95,7 +95,7 @@ if st.session_state.restart:
     st.rerun()
 
 
-st.title("Jeu de mémoire - Simon 🧠")
+st.title("Jeu de mémoire - 🧠")
 
 # Choix du niveau de difficulté
 if st.session_state.niveau is None:
